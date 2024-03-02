@@ -1,0 +1,7 @@
+{
+  "packageManager": "npm",
+  "interactive": true,
+  "format": [
+    "group"
+  ]
+}
